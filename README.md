@@ -32,4 +32,4 @@ If you encounter any issues while running the program, please try the following 
 2. Check the console for any error messages.
 3. If you are experiencing unexpected behavior, check the code for any logical errors.
 ### Credits
-This program was created by [Your Name].
+This program was created by Abraham Mekonnen.
